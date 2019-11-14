@@ -1,5 +1,2 @@
-# Spam
-Whatshack
-Zona Beta84
-# Format Nomor : 082199326022 atau 6282199326022
-by Zona Beta
+
+# Format Nomor : 081234567890 atau 6281234567890
